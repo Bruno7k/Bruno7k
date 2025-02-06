@@ -103,7 +103,7 @@ sempre focando na entrega de resultados de alta qualidade.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=bruno7k&theme=dark&show_icons=true&hide_border=true&count_private=true" 
   />
@@ -111,7 +111,7 @@ sempre focando na entrega de resultados de alta qualidade.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno7k&theme=dark&show_icons=true&hide_border=true&layout=compact" 
   />
 </p>
